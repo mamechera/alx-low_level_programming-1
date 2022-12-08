@@ -3,14 +3,12 @@
 
 
 /**
- * main - Entry point
- *
- * * Return: Always 0 (Success)
- */
+    * main - Entry point
+    *
+    * Return: Always 0 (Success)
+     */
 
 int main(void)
-
-
 
 {
 
@@ -43,4 +41,6 @@ int main(void)
 	     printf("Size of a float: %lu byte(s)\n", sizeof(afloat));
 
 	     return (0);
-}
+
+	     
+	         }
